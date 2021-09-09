@@ -1,0 +1,27 @@
+.body{
+    font-family:Helvetica, sans-serif;
+}
+.Header{
+    display: flex;
+    flex-wrap: no-wrap;
+    
+}
+
+
+.login{
+    margin-left: 23em;
+    justify-content: flex-end;
+}
+
+#first-look{
+    display: flex
+
+}
+#started{
+    border-radius: 25px;
+    align-items: flex-end;
+}
+
+
+
+
